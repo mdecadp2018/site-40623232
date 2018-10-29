@@ -124,16 +124,21 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 2018Fall 分組網際簡報
+<t tx="leo.20180827201621.10">### 2018Fall 40623232分組網際簡報
 
 ### 虎科大機械設計工程系
 
-&lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
+
 &lt;/small&gt;
 
-[2018 Fall 分組網誌](./../blog/index.html)
 
+[倉儲] (https://github.com/mdecadp2018/site-40623232)
+
+[網站] (https://mdecadp2018.github.io/site-40623232/content/index.html)
+
+[blog] (https://mdecadp2018.github.io/site-40623232/blog/index.html)
+
+[投影片] (https://mdecadp2018.github.io/site-40623232/reveal/index.html#/)
 
 </t>
 <t tx="leo.20180827201621.11">&lt;section data-markdown&gt;
