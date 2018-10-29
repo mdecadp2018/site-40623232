@@ -1,5 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 40623232 分組網誌</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2018-09-10T11:00:00+08:00</updated><entry><title>2018 Fall 分組網誌</title><link href="./2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:None,2018-09-10:./2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 40623232 分組網誌</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2018-10-29T11:00:00+08:00</updated><entry><title>2018 Fall W 7</title><link href="./2018-Fall-Project-Blog-6.html" rel="alternate"></link><published>2018-10-29T11:00:00+08:00</published><updated>2018-10-29T11:00:00+08:00</updated><author><name>40623232</name></author><id>tag:None,2018-10-29:./2018-Fall-Project-Blog-6.html</id><summary type="html">&lt;p&gt;學習如何架構虛擬網路&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;學習如何架構虛擬網路&lt;/p&gt;
+
+
+&lt;p&gt;課程內容&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;1.因Github出問題，所以學習架構虛擬網路和複習week1~week6所學&lt;/p&gt;
+&lt;p&gt;2.練習繪製onshape week5 homework part1 和 part2&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall W 6</title><link href="./2018-Fall-Project-Blog-5.html" rel="alternate"></link><published>2018-10-22T11:00:00+08:00</published><updated>2018-10-22T11:00:00+08:00</updated><author><name>40623232</name></author><id>tag:None,2018-10-22:./2018-Fall-Project-Blog-5.html</id><summary type="html">&lt;p&gt;複習上課內容，學習如何處理error問題&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;複習上課內容，學習如何處理error問題&lt;/p&gt;
+
+
+&lt;p&gt;課程內容&lt;/p&gt;
+&lt;p&gt;1.複習week1~week5&lt;/p&gt;
+&lt;p&gt;2.學習如何處理網誌error的問題&lt;/p&gt;
+&lt;p&gt;3.安裝新版p37&lt;/p&gt;
+&lt;p&gt;4.leo 不能亂刪任何一個符號!!!! 否則後果不堪設想&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall W 5</title><link href="./2018-Fall-Project-Blog-4.html" rel="alternate"></link><published>2018-10-15T11:00:00+08:00</published><updated>2018-10-15T11:00:00+08:00</updated><author><name>40623232</name></author><id>tag:None,2018-10-15:./2018-Fall-Project-Blog-4.html</id><summary type="html">&lt;p&gt;練習繪製onshape&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;練習繪製onshape&lt;/p&gt;
+
+
+&lt;p&gt;課程內容&lt;/p&gt;
+&lt;p&gt;1.boolean--消除圓以內的材料&lt;/p&gt;
+&lt;p&gt;2.split--分割實體面&lt;/p&gt;
+&lt;p&gt;3.modify fillet--修改圓角&lt;/p&gt;
+&lt;p&gt;4.helix--螺旋線&lt;/p&gt;
+&lt;p&gt;5.draft--拔模&lt;/p&gt;
+&lt;p&gt;6.replace face--偏移表面&lt;/p&gt;
+&lt;p&gt;7.mirror--鏡射&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall W 4</title><link href="./2018-Fall-Project-Blog-3.html" rel="alternate"></link><published>2018-10-08T11:00:00+08:00</published><updated>2018-10-08T11:00:00+08:00</updated><author><name>40623232</name></author><id>tag:None,2018-10-08:./2018-Fall-Project-Blog-3.html</id><summary type="html">&lt;p&gt;學習如何使用onshape&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;學習如何使用onshape&lt;/p&gt;
+
+
+&lt;p&gt;課程內容&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;1.extrude--拉伸&lt;/p&gt;
+&lt;p&gt;2.revolve--旋轉&lt;/p&gt;
+&lt;p&gt;3.symmetric--對稱&lt;/p&gt;
+&lt;p&gt;4.pattern--陣列&lt;/p&gt;
+&lt;p&gt;5.loft--斷面混層&lt;/p&gt;
+&lt;p&gt;6.sweep--掃掠&lt;/p&gt;
+&lt;p&gt;7.shell--薄殼&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall W 3</title><link href="./2018-Fall-Project-Blog-2.html" rel="alternate"></link><published>2018-09-24T11:00:00+08:00</published><updated>2018-09-24T11:00:00+08:00</updated><author><name>40623232</name></author><id>tag:None,2018-09-24:./2018-Fall-Project-Blog-2.html</id><summary type="html">&lt;p&gt;中秋節放假拉 爽拉 &lt;/p&gt;
+</summary><content type="html">&lt;p&gt;中秋節放假拉 爽拉 &lt;/p&gt;
+</content><category term="2018Fall"></category></entry><entry><title>2018 Fall W 2</title><link href="./2018-Fall-Project-Blog-1.html" rel="alternate"></link><published>2018-09-17T11:00:00+08:00</published><updated>2018-09-17T11:00:00+08:00</updated><author><name>40623232</name></author><id>tag:None,2018-09-17:./2018-Fall-Project-Blog-1.html</id><summary type="html">&lt;p&gt;管理個人的期中作業網站內容&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;管理個人的期中作業網站內容&lt;/p&gt;
+
+
+&lt;h2&gt;課程內容&lt;/h2&gt;
+&lt;p&gt;1.進到mde.tw &amp;gt; i &amp;gt;week2&amp;gt;領取個人倉儲 (在mdecadp2018下的site-40623232) 2.在site-40623232的 settings &amp;gt; Branches &amp;gt; 將branches改為gh-pages 3.開始試著練習OnShape ，更新網站內容&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall W 1</title><link href="./2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:None,2018-09-10:./2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 
 
