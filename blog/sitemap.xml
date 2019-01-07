@@ -4,112 +4,112 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>./</loc>
-<lastmod>2018-10-29T11:27:43-00:00</lastmod>
+<loc>https://mdecourse.github.io/2018fall/blog/</loc>
+<lastmod>2019-01-06T20:20:14-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./archives.html</loc>
-<lastmod>2018-10-29T11:27:43-00:00</lastmod>
+<loc>https://mdecourse.github.io/2018fall/blog/archives.html</loc>
+<lastmod>2019-01-06T20:20:14-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./tags.html</loc>
-<lastmod>2018-10-29T11:27:43-00:00</lastmod>
+<loc>https://mdecourse.github.io/2018fall/blog/tags.html</loc>
+<lastmod>2019-01-06T20:20:14-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./categories.html</loc>
-<lastmod>2018-10-29T11:27:43-00:00</lastmod>
+<loc>https://mdecourse.github.io/2018fall/blog/categories.html</loc>
+<lastmod>2019-01-06T20:20:14-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./pages/about/</loc>
-<lastmod>2018-10-29T10:20:50+08:00</lastmod>
+<loc>https://mdecourse.github.io/2018fall/blog/pages/about/</loc>
+<lastmod>2019-01-06T20:02:32+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./2018-Fall-Project-Blog-6.html</loc>
+<loc>https://mdecourse.github.io/2018fall/blog/2018-Fall-Project-Blog-6.html</loc>
 <lastmod>2018-10-29T11:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./2018-Fall-Project-Blog-5.html</loc>
+<loc>https://mdecourse.github.io/2018fall/blog/2018-Fall-Project-Blog-5.html</loc>
 <lastmod>2018-10-22T11:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./2018-Fall-Project-Blog-4.html</loc>
+<loc>https://mdecourse.github.io/2018fall/blog/2018-Fall-Project-Blog-4.html</loc>
 <lastmod>2018-10-15T11:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./2018-Fall-Project-Blog-3.html</loc>
+<loc>https://mdecourse.github.io/2018fall/blog/2018-Fall-Project-Blog-3.html</loc>
 <lastmod>2018-10-08T11:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./2018-Fall-Project-Blog-2.html</loc>
+<loc>https://mdecourse.github.io/2018fall/blog/2018-Fall-Project-Blog-2.html</loc>
 <lastmod>2018-09-24T11:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./2018-Fall-Project-Blog-1.html</loc>
+<loc>https://mdecourse.github.io/2018fall/blog/2018-Fall-Project-Blog-1.html</loc>
 <lastmod>2018-09-17T11:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./2018-Fall-Project-Blog.html</loc>
+<loc>https://mdecourse.github.io/2018fall/blog/2018-Fall-Project-Blog.html</loc>
 <lastmod>2018-09-10T11:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./category/misc.html</loc>
+<loc>https://mdecourse.github.io/2018fall/blog/category/misc.html</loc>
 <lastmod>2018-10-29T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./tag/2018fall.html</loc>
+<loc>https://mdecourse.github.io/2018fall/blog/tag/2018fall.html</loc>
 <lastmod>2018-10-29T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./author/40623232.html</loc>
+<loc>https://mdecourse.github.io/2018fall/blog/author/40623232.html</loc>
 <lastmod>2018-10-29T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./author/nfumde.html</loc>
+<loc>https://mdecourse.github.io/2018fall/blog/author/nfumde.html</loc>
 <lastmod>2018-09-10T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
