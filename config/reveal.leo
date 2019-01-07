@@ -172,7 +172,7 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20180827201621.14">w 11
+<t tx="leo.20180827201621.14">#w 11
 
 
 
@@ -280,7 +280,7 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20190107130452.2">w12
+<t tx="leo.20190107130452.2">#w12
 
 
 
@@ -295,7 +295,7 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20190107130453.2">w13
+<t tx="leo.20190107130453.2">#w13
 
 
 
@@ -308,7 +308,7 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20190107130453.4">w14
+<t tx="leo.20190107130453.4">#w14
 
 
 
@@ -322,7 +322,7 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20190107130453.6">w15
+<t tx="leo.20190107130453.6">#w15
 
 
 心得:這週開始使用V-rep，看了老師給的參考資料，花了很多時間在查單字上，在學習的過程當中讓我知到英文的重要性，也知道自己的英文能力非常差，但利用這些課程讓我自己提升英文能力是一個不錯的選擇，而我們已經將零件組裝完成開始使用V-rep，老師也敘述為什麼要改版 ? (1) 增加功能 (2) 修改錯誤 還有為什麼要有版本紀錄 ? (1) 看誰有做事 (2) 可以還原 (3) 查看細節的更動，也意旨我們付出多少就拿多少分數。
@@ -334,7 +334,7 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20190107130453.8">w16
+<t tx="leo.20190107130453.8">#w16
 
 
 心得:離學期末剩下2週的時間，我們在Vrep運用方面非常的弱，我發現網路上很多找的都是類似滑塊的運動以及活塞的運動，在折疊腳踏車的教學上並沒有很多參考資料，但還是盡可能的去做完它。
@@ -346,7 +346,7 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20190107130454.2">w17
+<t tx="leo.20190107130454.2">#w17
 
 
 
@@ -357,7 +357,7 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20190107130454.4">w18
+<t tx="leo.20190107130454.4">#w18
 
 
 
