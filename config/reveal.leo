@@ -169,11 +169,11 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 心得:這一週開始進行分組專題，我將會用前9週所學到的技術運用在期末專題上，與大家同心協力製作這一次專題，但是需要透過大家的努力，從現在開始我們就是一個團隊，希望各位能一起完成本次專題，而我們本次專題為折疊腳踏車。
 </t>
-<t tx="leo.20180827201621.13">&lt;section&gt;
+<t tx="leo.20180827201621.13">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
 @others
-&lt;/section&gt;
-
-</t>
+    &lt;/script&gt;
+&lt;/section&gt;</t>
 <t tx="leo.20180827201621.14"># w11
 
 
@@ -277,11 +277,11 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20190107130452.1">&lt;section&gt;
+<t tx="leo.20190107130452.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
 @others
-&lt;/section&gt;
-
-</t>
+    &lt;/script&gt;
+&lt;/section&gt;</t>
 <t tx="leo.20190107130452.2"># w12
 
 
@@ -292,11 +292,11 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20190107130453.1">&lt;section&gt;
+<t tx="leo.20190107130453.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
 @others
-&lt;/section&gt;
-
-</t>
+    &lt;/script&gt;
+&lt;/section&gt;</t>
 <t tx="leo.20190107130453.2"># w13
 
 
@@ -305,11 +305,11 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20190107130453.3">&lt;section&gt;
+<t tx="leo.20190107130453.3">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
 @others
-&lt;/section&gt;
-
-</t>
+    &lt;/script&gt;
+&lt;/section&gt;</t>
 <t tx="leo.20190107130453.4"># w14
 
 
@@ -319,11 +319,11 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20190107130453.5">&lt;section&gt;
+<t tx="leo.20190107130453.5">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
 @others
-&lt;/section&gt;
-
-</t>
+    &lt;/script&gt;
+&lt;/section&gt;</t>
 <t tx="leo.20190107130453.6"># w15
 
 
@@ -331,11 +331,11 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20190107130453.7">&lt;section&gt;
+<t tx="leo.20190107130453.7">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
 @others
-&lt;/section&gt;
-
-</t>
+    &lt;/script&gt;
+&lt;/section&gt;</t>
 <t tx="leo.20190107130453.8"># w16
 
 
@@ -343,11 +343,11 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20190107130454.1">&lt;section&gt;
+<t tx="leo.20190107130454.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
 @others
-&lt;/section&gt;
-
-</t>
+    &lt;/script&gt;
+&lt;/section&gt;</t>
 <t tx="leo.20190107130454.2"># w17
 
 
@@ -356,11 +356,11 @@ Created by [KMOLab](http://lab.kmol.info/)
 元旦放假~~
 
 </t>
-<t tx="leo.20190107130454.3">&lt;section&gt;
+<t tx="leo.20190107130454.3">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
 @others
-&lt;/section&gt;
-
-</t>
+    &lt;/script&gt;
+&lt;/section&gt;</t>
 <t tx="leo.20190107130454.4"># w18
 
 
