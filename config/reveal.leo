@@ -25,31 +25,31 @@
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20180827201621.11" a="E"><vh>w10</vh>
-<v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
+<v t="leo.20180827201621.12"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20180827201621.13" a="E"><vh>w11</vh>
-<v t="leo.20180827201621.14"><vh>心得</vh></v>
+<v t="leo.20180827201621.14"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20190107130452.1" a="E"><vh>w12</vh>
-<v t="leo.20190107130452.2"><vh>導入數學符號與方程式</vh></v>
+<v t="leo.20190107130452.2"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20190107130453.1" a="E"><vh>w13</vh>
-<v t="leo.20190107130453.2"><vh>導入數學符號與方程式</vh></v>
+<v t="leo.20190107130453.2"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20190107130453.3" a="E"><vh>w14</vh>
-<v t="leo.20190107130453.4"><vh>導入數學符號與方程式</vh></v>
+<v t="leo.20190107130453.4"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20190107130453.5" a="E"><vh>w15</vh>
-<v t="leo.20190107130453.6"><vh>導入數學符號與方程式</vh></v>
+<v t="leo.20190107130453.6"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20190107130453.7" a="E"><vh>w16</vh>
-<v t="leo.20190107130453.8"><vh>導入數學符號與方程式</vh></v>
+<v t="leo.20190107130453.8"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20190107130454.1" a="E"><vh>w17</vh>
-<v t="leo.20190107130454.2"><vh>導入數學符號與方程式</vh></v>
+<v t="leo.20190107130454.2"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20190107130454.3" a="E"><vh>w18</vh>
-<v t="leo.20190107130454.4"><vh>導入數學符號與方程式</vh></v>
+<v t="leo.20190107130454.4"><vh>封面投影片內容</vh></v>
 </v>
 </v>
 </v>
@@ -137,7 +137,7 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">### 2018Fall 40623232分組網際簡報
+<t tx="leo.20180827201621.10">### l 40623232網際簡報
 
 ####虎科大機械設計工程系
 
@@ -153,7 +153,9 @@ vertical: body pane on the botton</t>
 
 *[投影片] (https://mdecadp2018.github.io/site-40623232/reveal/index.html#/)
 
-</t>
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;</t>
 <t tx="leo.20180827201621.11">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -351,7 +353,9 @@ vertical: body pane on the botton</t>
 
 
 
-元旦放假~~</t>
+元旦放假~~
+
+</t>
 <t tx="leo.20190107130454.3">&lt;section&gt;
 @others
 &lt;/section&gt;
