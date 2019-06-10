@@ -137,7 +137,7 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">###  40623232網際簡報
+<t tx="leo.20180827201621.10">###  40623232個人簡報
 
 #### 虎科大機械設計工程系
 
@@ -155,7 +155,9 @@ vertical: body pane on the botton</t>
 
 &lt;small&gt;
 Created by [KMOLab](http://lab.kmol.info/)
-&lt;/small&gt;</t>
+&lt;/small&gt;
+
+</t>
 <t tx="leo.20180827201621.11">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -167,13 +169,17 @@ Created by [KMOLab](http://lab.kmol.info/)
 </t>
 <t tx="leo.20180827201621.12"># week 10
 
-心得:這一週開始進行分組專題，我將會用前9週所學到的技術運用在期末專題上，與大家同心協力製作這一次專題，但是需要透過大家的努力，從現在開始我們就是一個團隊，希望各位能一起完成本次專題，而我們本次專題為折疊腳踏車。
+&lt;img src=https://mdekmol.github.io/cd2019b-task1-2019cdb_t1_g5/images/228%E9%80%A3%E5%81%87%E7%88%BD%E7%9D%A1%E5%9C%96.jpg
+ &lt;width="250" heith="250"&gt;&lt;/a&gt;
+
 </t>
 <t tx="leo.20180827201621.13">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+
+</t>
 <t tx="leo.20180827201621.14"># w11
 
 
@@ -281,7 +287,9 @@ Created by [KMOLab](http://lab.kmol.info/)
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+
+</t>
 <t tx="leo.20190107130452.2"># w12
 
 
@@ -296,7 +304,9 @@ Created by [KMOLab](http://lab.kmol.info/)
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+
+</t>
 <t tx="leo.20190107130453.2"># w13
 
 
@@ -309,7 +319,9 @@ Created by [KMOLab](http://lab.kmol.info/)
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+
+</t>
 <t tx="leo.20190107130453.4"># w14
 
 
@@ -323,7 +335,9 @@ Created by [KMOLab](http://lab.kmol.info/)
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+
+</t>
 <t tx="leo.20190107130453.6"># w15
 
 
@@ -335,7 +349,9 @@ Created by [KMOLab](http://lab.kmol.info/)
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+
+</t>
 <t tx="leo.20190107130453.8"># w16
 
 
@@ -347,7 +363,9 @@ Created by [KMOLab](http://lab.kmol.info/)
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+
+</t>
 <t tx="leo.20190107130454.2"># w17
 
 
@@ -360,7 +378,9 @@ Created by [KMOLab](http://lab.kmol.info/)
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+
+</t>
 <t tx="leo.20190107130454.4"># w18
 
 
