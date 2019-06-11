@@ -24,32 +24,84 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11" a="E"><vh>w10</vh>
-<v t="leo.20180827201621.12"><vh>封面投影片內容</vh></v>
+<v t="leo.20190611214903.1"><vh>Week12</vh>
+<v t="leo.20190611214903.2" a="E"><vh>往下</vh>
+<v t="leo.20190611214903.3"><vh>week12</vh></v>
 </v>
-<v t="leo.20180827201621.13" a="E"><vh>w11</vh>
-<v t="leo.20180827201621.14"><vh>封面投影片內容</vh></v>
+<v t="leo.20190611214903.4" a="E"><vh>往下</vh>
+<v t="leo.20190611214903.5"><vh>最初構想</vh></v>
 </v>
-<v t="leo.20190107130452.1" a="E"><vh>w12</vh>
-<v t="leo.20190107130452.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20190611214903.6" a="E"><vh>往下</vh>
+<v t="leo.20190611214903.7"><vh>最初構想</vh></v>
 </v>
-<v t="leo.20190107130453.1" a="E"><vh>w13</vh>
-<v t="leo.20190107130453.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20190107130453.3" a="E"><vh>w14</vh>
-<v t="leo.20190107130453.4"><vh>封面投影片內容</vh></v>
+<v t="leo.20180827201621.11"><vh>w10</vh>
+<v t="leo.20190611220113.1" a="E"><vh>第一頁</vh>
+<v t="leo.20190611220113.2"><vh>主題</vh></v>
 </v>
-<v t="leo.20190107130453.5" a="E"><vh>w15</vh>
-<v t="leo.20190107130453.6"><vh>封面投影片內容</vh></v>
+<v t="leo.20190611214535.1" a="E"><vh>第二頁</vh>
+<v t="leo.20190611214535.2"><vh>W10 影片</vh></v>
 </v>
-<v t="leo.20190107130453.7" a="E"><vh>w16</vh>
-<v t="leo.20190107130453.8"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20190107130454.1" a="E"><vh>w17</vh>
+<v t="leo.20190107130452.1" a="E"><vh>w11</vh>
+<v t="leo.20190611220826.1" a="E"><vh>往下</vh>
+<v t="leo.20190611220826.2"><vh>主題</vh></v>
+</v>
+<v t="leo.20190611220825.1" a="E"><vh>往下</vh>
+<v t="leo.20190611220825.2"><vh>影片說明</vh></v>
+</v>
+</v>
+<v t="leo.20190107130453.1" a="E"><vh>w12</vh>
+<v t="leo.20190611221631.1" a="E"><vh>往下</vh>
+<v t="leo.20190611221631.2"><vh>主題</vh></v>
+</v>
+<v t="leo.20190611221509.1" a="E"><vh>往下</vh>
+<v t="leo.20190611221509.2"><vh>影片說明</vh></v>
+</v>
+<v t="leo.20190611221506.1" a="E"><vh>往下</vh>
+<v t="leo.20190611221506.2"><vh>圖片說明</vh></v>
+</v>
+</v>
+<v t="leo.20190611222454.1" a="E"><vh>w13</vh>
+<v t="leo.20190611222454.2" a="E"><vh>往下</vh>
+<v t="leo.20190611222454.3"><vh>主題</vh></v>
+</v>
+<v t="leo.20190611222454.4" a="E"><vh>往下</vh>
+<v t="leo.20190611222454.5"><vh>影片說明</vh></v>
+</v>
+<v t="leo.20190611222454.6" a="E"><vh>往下</vh>
+<v t="leo.20190611222454.7"><vh>圖片說明</vh></v>
+</v>
+<v t="leo.20190611222749.1" a="E"><vh>往下</vh>
+<v t="leo.20190611222749.2"><vh>圖片說明</vh></v>
+</v>
+</v>
+<v t="leo.20190611222827.1"><vh>w14</vh>
+<v t="leo.20190611222827.2" a="E"><vh>往下</vh>
+<v t="leo.20190611222827.3"><vh>主題</vh></v>
+</v>
+<v t="leo.20190611222827.4" a="E"><vh>往下</vh>
+<v t="leo.20190611222827.5"><vh>影片說明</vh></v>
+</v>
+<v t="leo.20190611222827.6" a="E"><vh>往下</vh>
+<v t="leo.20190611222827.7"><vh>圖片說明</vh></v>
+</v>
+<v t="leo.20190611222827.8" a="E"><vh>往下</vh>
+<v t="leo.20190611222827.9"><vh>圖片說明</vh></v>
+</v>
+</v>
+<v t="leo.20190611223815.1"><vh>w15</vh>
+<v t="leo.20190611223815.2" a="E"><vh>往下</vh>
+<v t="leo.20190611223815.3"><vh>主題</vh></v>
+</v>
+</v>
+<v t="leo.20190611224143.1" a="E"><vh>w16</vh>
+<v t="leo.20190611224143.2" a="E"><vh>往下</vh>
+<v t="leo.20190611224143.3"><vh>主題</vh></v>
+</v>
+</v>
+<v t="leo.20190107130454.1"><vh>w17</vh>
 <v t="leo.20190107130454.2"><vh>封面投影片內容</vh></v>
-</v>
-<v t="leo.20190107130454.3" a="E"><vh>w18</vh>
-<v t="leo.20190107130454.4"><vh>封面投影片內容</vh></v>
 </v>
 </v>
 </v>
@@ -137,54 +189,30 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">###  40623232個人簡報
+<t tx="leo.20180827201621.10">##  協同產品設計實習
 
-#### 虎科大機械設計工程系
+### 40623232-個人簡報
 
 
 &lt;/small&gt;
 
 
-* [倉儲](https://github.com/mdecadp2018/site-40623232)
+* [2019 Spring CD B 班期末協同專案倉儲](https://github.com/scrum-1/cd2019b)
 
-* [網站](https://mdecadp2018.github.io/site-40623232/content/index.html)
+* [分組專案 BG5 小組倉儲](https://github.com/mdekmol/cd2019b-task1-2019cdb_t1_g5)
 
-* [blog](https://mdecadp2018.github.io/site-40623232/blog/index.html)
+* [個人倉儲](https://github.com/mdecadp2018/site-40623232)
 
-* [投影片](https://mdecadp2018.github.io/site-40623232/reveal/index.html#/)
+
 
 &lt;small&gt;
 Created by [KMOLab](http://lab.kmol.info/)
 &lt;/small&gt;
 
 </t>
-<t tx="leo.20180827201621.11">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
+<t tx="leo.20180827201621.11">&lt;section&gt;
 @others
-    &lt;/script&gt;
 &lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20180827201621.12"># week 10
-
-&lt;img src=https://mdekmol.github.io/cd2019b-task1-2019cdb_t1_g5/images/228%E9%80%A3%E5%81%87%E7%88%BD%E7%9D%A1%E5%9C%96.jpg
- &lt;width="250" heith="250"&gt;&lt;/a&gt;
-
-</t>
-<t tx="leo.20180827201621.13">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20180827201621.14"># w11
-
-
-
-心得:我們在課堂上利用時間討論我們這次的專題，並利用剩餘的時間一起把網站結構架設出來，然而我們在進行網站維護與更新遇上了一些問題，但是經由討論，發現到網站維護有一些特性，並把這些錯誤揪出來並解決。
 
 
 						
@@ -283,79 +311,17 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20190107130452.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
+<t tx="leo.20190107130452.1">&lt;section&gt;
 @others
-    &lt;/script&gt;
 &lt;/section&gt;
-
-</t>
-<t tx="leo.20190107130452.2"># w12
-
-
-
-心得:這週上課我們依然做網站以及投影片，但是我們發現到只要有兩個人以上推送倉儲時，另外一位組員若是沒有先PULL下來，就會使網站出現錯誤，爾且修改會變得非常麻煩，但是如果另一位組員沒有把錯誤解決的話拖到下一位組員時BUG會更加嚴重，所以我們在討論之後以後推送的話先一個推再給另一個做，並且在做之前先PULL下來。
-
 
 
 						
 </t>
-<t tx="leo.20190107130453.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
+<t tx="leo.20190107130453.1">&lt;section&gt;
 @others
-    &lt;/script&gt;
 &lt;/section&gt;
 
-</t>
-<t tx="leo.20190107130453.2"># w13
-
-
-
-心得:這一週開始經由課堂上老師的各組專題重點介紹後，我與另一位組員開始討論如何畫出折疊腳踏車，並思考如何呈現出來，在回家後試畫出框架的部分，而程式部分的展現也要考慮進去，否則畫出來的實體有可能不好去模擬。
-
-						
-</t>
-<t tx="leo.20190107130453.3">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20190107130453.4"># w14
-
-
-
-心得:由於17週放連假的關係，我們這一週開始補課，大家各自的進度都在預期之中，我們將畫好的零組件組裝起來，在組合期間有一些問題，像是畫出來之後組裝時因為零件干涉的問題必須需要調整變數，而微調的零件又有可能影響另外一個零件，在這過程之中去完成組合，使我們的專題更接近完成的一步
-
-
-						
-</t>
-<t tx="leo.20190107130453.5">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20190107130453.6"># w15
-
-
-心得:這週開始使用V-rep，看了老師給的參考資料，花了很多時間在查單字上，在學習的過程當中讓我知到英文的重要性，也知道自己的英文能力非常差，但利用這些課程讓我自己提升英文能力是一個不錯的選擇，而我們已經將零件組裝完成開始使用V-rep，老師也敘述為什麼要改版 ? (1) 增加功能 (2) 修改錯誤 還有為什麼要有版本紀錄 ? (1) 看誰有做事 (2) 可以還原 (3) 查看細節的更動，也意旨我們付出多少就拿多少分數。
-
-						
-</t>
-<t tx="leo.20190107130453.7">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20190107130453.8"># w16
-
-
-心得:離學期末剩下2週的時間，我們在Vrep運用方面非常的弱，我發現網路上很多找的都是類似滑塊的運動以及活塞的運動，在折疊腳踏車的教學上並沒有很多參考資料，但還是盡可能的去做完它。
 
 						
 </t>
@@ -366,34 +332,374 @@ Created by [KMOLab](http://lab.kmol.info/)
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20190107130454.2"># w17
+<t tx="leo.20190107130454.2"># 自評
+
+## 分數:65
 
 
 
 
-元旦放假~~
 
 </t>
-<t tx="leo.20190107130454.3">&lt;section data-markdown&gt;
+<t tx="leo.20190611214535.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
+
     &lt;/script&gt;
 &lt;/section&gt;
 
+
+						
 </t>
-<t tx="leo.20190107130454.4"># w18
-
-
-
-期末考週
-專題完成~
-期末自評:
-1.各組成員在期末考週前, 自行利用至多 3 分鐘 Youtube 影片, 進行課程學習報告, 並將影片嵌入各組的期末網站中.
-2.各組員利用期末考週時間, 同步至 ethercalc 登錄下半學期的自評成績.
-3.各分組在期末考週, 以至多 15 分鐘, 採網際簡報方式, 說明各組所完成的期末專題內容, 其中包括專題執行規劃、具體完成任務、各組員分工情況與 final report pdf 製作流程等.
+<t tx="leo.20190611214535.2">&lt;iframe width="850" height="500" src="https://www.youtube.com/watch?v=8XIGO48ToXk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20190611214903.1">&lt;section&gt;
+@others
+&lt;/section&gt;
 
 
 						
+</t>
+<t tx="leo.20190611214903.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190611214903.3">## Week12
+
+* 人與人對打程式設計編譯
+
+</t>
+<t tx="leo.20190611214903.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190611214903.5">## 最初構想
+
+最一開始的想法是想利用感測器，來偵測球的位置
+
+&lt;img src="https://raw.githubusercontent.com/mdecadp2018/site-40623138/gh-pages/images/first-idea.png"
+weight="500"height="350"&gt;&lt;/img&gt;
+</t>
+<t tx="leo.20190611214903.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190611214903.7">## 最初構想
+
+編寫程式時遇到的第一個瓶頸，就是不知道讓感測器去偵測球
+
+&lt;img src="https://raw.githubusercontent.com/mdecadp2018/site-40623138/gh-pages/images/first-program.png"
+weight="700"height="500"&gt;&lt;/img&gt;
+</t>
+<t tx="leo.20190611220113.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190611220113.2">## WEEK10
+
+* 研究實習三
+
+</t>
+<t tx="leo.20190611220825.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190611220825.2">
+發現人與人，中心與最大半徑會撞再一起，所以這邊調整了足球人的身高。
+
+
+
+
+&lt;iframe width="850" height="500" src="https://youtu.be/A80ZyJKpSwg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20190611220826.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190611220826.2">## WEEK11
+
+* 分析，發現問題
+
+</t>
+<t tx="leo.20190611221506.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190611221506.2">
+
+&lt;img src="https://mdekmol.github.io/cd2019b-task1-2019cdb_t1_g5/images/POLE%20PLAYER.png"
+weight="500"height="500"&gt;&lt;/img&gt;
+
+</t>
+<t tx="leo.20190611221509.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190611221509.2">
+
+&lt;iframe width="950" height="500" src="https://youtu.be/A80ZyJKpSwg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20190611221631.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190611221631.2">## WEEK12
+
+
+
+
+* 繪製手足球的零件圖-Pole 、Player
+
+</t>
+<t tx="leo.20190611222454.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190611222454.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190611222454.3">## WEEK13
+
+
+
+
+* 繪製送球機構零件圖
+
+</t>
+<t tx="leo.20190611222454.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190611222454.5">
+
+&lt;iframe width="950" height="500" src="https://youtu.be/A80ZyJKpSwg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20190611222454.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190611222454.7">
+
+&lt;img src="https://mdecadp2018.github.io/site-40623232/images/456.png"
+weight="500"height="500"&gt;&lt;/img&gt;
+
+</t>
+<t tx="leo.20190611222749.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190611222749.2">
+
+&lt;img src="https://mdecadp2018.github.io/site-40623232/images/51656.png"
+weight="500"height="500"&gt;&lt;/img&gt;
+
+</t>
+<t tx="leo.20190611222827.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190611222827.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190611222827.3">## WEEK14
+
+
+
+
+* 繪製各組合件材料圖
+
+</t>
+<t tx="leo.20190611222827.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190611222827.5">
+
+&lt;iframe width="950" height="500" src="https://youtu.be/A80ZyJKpSwg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20190611222827.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190611222827.7">
+
+&lt;img src="https://mdekmol.github.io/cd2019b-task1-2019cdb_t1_g5/images/45445.png"
+weight="500"height="500"&gt;&lt;/img&gt;
+
+</t>
+<t tx="leo.20190611222827.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190611222827.9">
+
+&lt;img src="https://mdekmol.github.io/cd2019b-task1-2019cdb_t1_g5/images/542441.png"
+weight="500"height="500"&gt;&lt;/img&gt;
+
+</t>
+<t tx="leo.20190611223815.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190611223815.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190611223815.3">## WEEK15
+
+
+
+
+* 整理自己倉儲
+
+* [個人倉儲](https://github.com/mdecadp2018/site-40623232)
+
+
+
+</t>
+<t tx="leo.20190611224143.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190611224143.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190611224143.3">## WEEK16
+
+
+
+
+* 製作 投影片
+
+* [投影片](https://mdecadp2018.github.io/site-40623232/reveal/index.html#/)
+
 </t>
 </tnodes>
 </leo_file>
