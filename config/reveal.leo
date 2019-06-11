@@ -21,19 +21,8 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
-<v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
-</v>
-<v t="leo.20190611214903.1"><vh>Week12</vh>
-<v t="leo.20190611214903.2" a="E"><vh>往下</vh>
-<v t="leo.20190611214903.3"><vh>week12</vh></v>
-</v>
-<v t="leo.20190611214903.4" a="E"><vh>往下</vh>
-<v t="leo.20190611214903.5"><vh>最初構想</vh></v>
-</v>
-<v t="leo.20190611214903.6" a="E"><vh>往下</vh>
-<v t="leo.20190611214903.7"><vh>最初構想</vh></v>
-</v>
+<v t="leo.20190611225845.1" a="E"><vh>封面投影片</vh>
+<v t="leo.20190611225845.2"><vh>首篇</vh></v>
 </v>
 <v t="leo.20180827201621.11"><vh>w10</vh>
 <v t="leo.20190611220113.1" a="E"><vh>第一頁</vh>
@@ -43,7 +32,7 @@
 <v t="leo.20190611214535.2"><vh>W10 影片</vh></v>
 </v>
 </v>
-<v t="leo.20190107130452.1" a="E"><vh>w11</vh>
+<v t="leo.20190107130452.1"><vh>w11</vh>
 <v t="leo.20190611220826.1" a="E"><vh>往下</vh>
 <v t="leo.20190611220826.2"><vh>主題</vh></v>
 </v>
@@ -76,7 +65,7 @@
 <v t="leo.20190611222749.2"><vh>圖片說明</vh></v>
 </v>
 </v>
-<v t="leo.20190611222827.1"><vh>w14</vh>
+<v t="leo.20190611222827.1" a="E"><vh>w14</vh>
 <v t="leo.20190611222827.2" a="E"><vh>往下</vh>
 <v t="leo.20190611222827.3"><vh>主題</vh></v>
 </v>
@@ -95,13 +84,18 @@
 <v t="leo.20190611223815.3"><vh>主題</vh></v>
 </v>
 </v>
-<v t="leo.20190611224143.1" a="E"><vh>w16</vh>
+<v t="leo.20190611224143.1"><vh>w16</vh>
 <v t="leo.20190611224143.2" a="E"><vh>往下</vh>
 <v t="leo.20190611224143.3"><vh>主題</vh></v>
 </v>
 </v>
-<v t="leo.20190107130454.1"><vh>w17</vh>
-<v t="leo.20190107130454.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20190611225226.1" a="E"><vh>自評 心得 W17</vh>
+<v t="leo.20190611225226.2" a="E"><vh>week16</vh>
+<v t="leo.20190611225226.3"><vh>自評</vh></v>
+</v>
+<v t="leo.20190611225226.4" a="E"><vh>week16</vh>
+<v t="leo.20190611225226.5"><vh>心得</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -189,27 +183,6 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">##  協同產品設計實習
-
-### 40623232-個人簡報
-
-
-&lt;/small&gt;
-
-
-* [2019 Spring CD B 班期末協同專案倉儲](https://github.com/scrum-1/cd2019b)
-
-* [分組專案 BG5 小組倉儲](https://github.com/mdekmol/cd2019b-task1-2019cdb_t1_g5)
-
-* [個人倉儲](https://github.com/mdecadp2018/site-40623232)
-
-
-
-&lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
-&lt;/small&gt;
-
-</t>
 <t tx="leo.20180827201621.11">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -302,15 +275,6 @@ Created by [KMOLab](http://lab.kmol.info/)
 &lt;/div&gt;
 
 </t>
-<t tx="leo.20180827201621.9">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
 <t tx="leo.20190107130452.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -325,22 +289,6 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20190107130454.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20190107130454.2"># 自評
-
-## 分數:65
-
-
-
-
-
-</t>
 <t tx="leo.20190611214535.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -352,62 +300,6 @@ Created by [KMOLab](http://lab.kmol.info/)
 						
 </t>
 <t tx="leo.20190611214535.2">&lt;iframe width="850" height="500" src="https://www.youtube.com/watch?v=8XIGO48ToXk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
-<t tx="leo.20190611214903.1">&lt;section&gt;
-@others
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190611214903.2">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190611214903.3">## Week12
-
-* 人與人對打程式設計編譯
-
-</t>
-<t tx="leo.20190611214903.4">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190611214903.5">## 最初構想
-
-最一開始的想法是想利用感測器，來偵測球的位置
-
-&lt;img src="https://raw.githubusercontent.com/mdecadp2018/site-40623138/gh-pages/images/first-idea.png"
-weight="500"height="350"&gt;&lt;/img&gt;
-</t>
-<t tx="leo.20190611214903.6">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190611214903.7">## 最初構想
-
-編寫程式時遇到的第一個瓶頸，就是不知道讓感測器去偵測球
-
-&lt;img src="https://raw.githubusercontent.com/mdecadp2018/site-40623138/gh-pages/images/first-program.png"
-weight="700"height="500"&gt;&lt;/img&gt;
-</t>
 <t tx="leo.20190611220113.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -596,7 +488,7 @@ weight="500"height="500"&gt;&lt;/img&gt;
 
 
 
-* 繪製各組合件材料圖
+* 繪製各組合件材料表
 
 </t>
 <t tx="leo.20190611222827.4">&lt;section data-markdown&gt;
@@ -699,6 +591,76 @@ weight="500"height="500"&gt;&lt;/img&gt;
 * 製作 投影片
 
 * [投影片](https://mdecadp2018.github.io/site-40623232/reveal/index.html#/)
+
+</t>
+<t tx="leo.20190611225226.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+						
+</t>
+<t tx="leo.20190611225226.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190611225226.3">## 自評
+
+* 學員出席 : 20
+
+* Github 倉儲管理 : 20
+
+* Onshape 協同操作 : 20
+
+* V-rep 模擬 : 0
+
+* 程式開發 : 0
+
+* 總和 : 60
+</t>
+<t tx="leo.20190611225226.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190611225226.5">## 心得
+
+這次的協同，讓我真正的感受到，什麼是團隊合作，一開始我真的不知道在幹嗎，到後面才進入佳境，好希望這一切能重來，到後面看到同學都在那邊研究模擬跟程式，突然覺得很有趣，不知道下一次還有沒有這種課，我一定會跟認真的。
+</t>
+<t tx="leo.20190611225845.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190611225845.2">##  協同產品設計實習
+
+### 姓名:余建杰
+### 學號:40623232
+### 教師:嚴家銘
+
+&lt;/small&gt;
+
+
+* [2019 Spring CD B 班期末協同專案倉儲](https://github.com/scrum-1/cd2019b)
+
+* [分組專案 BG5 小組倉儲](https://github.com/mdekmol/cd2019b-task1-2019cdb_t1_g5)
+
+* [個人倉儲](https://github.com/mdecadp2018/site-40623232)
+
 
 </t>
 </tnodes>
