@@ -24,7 +24,7 @@
 <v t="leo.20190611225845.1" a="E"><vh>封面投影片</vh>
 <v t="leo.20190611225845.2"><vh>首篇</vh></v>
 </v>
-<v t="leo.20180827201621.11"><vh>w10</vh>
+<v t="leo.20180827201621.11" a="E"><vh>w10</vh>
 <v t="leo.20190611220113.1" a="E"><vh>第一頁</vh>
 <v t="leo.20190611220113.2"><vh>主題</vh></v>
 </v>
@@ -32,7 +32,7 @@
 <v t="leo.20190611214535.2"><vh>W10 影片</vh></v>
 </v>
 </v>
-<v t="leo.20190107130452.1"><vh>w11</vh>
+<v t="leo.20190107130452.1" a="E"><vh>w11</vh>
 <v t="leo.20190611220826.1" a="E"><vh>往下</vh>
 <v t="leo.20190611220826.2"><vh>主題</vh></v>
 </v>
@@ -69,9 +69,6 @@
 <v t="leo.20190611222827.2" a="E"><vh>往下</vh>
 <v t="leo.20190611222827.3"><vh>主題</vh></v>
 </v>
-<v t="leo.20190611222827.4" a="E"><vh>往下</vh>
-<v t="leo.20190611222827.5"><vh>影片說明</vh></v>
-</v>
 <v t="leo.20190611222827.6" a="E"><vh>往下</vh>
 <v t="leo.20190611222827.7"><vh>圖片說明</vh></v>
 </v>
@@ -79,7 +76,7 @@
 <v t="leo.20190611222827.9"><vh>圖片說明</vh></v>
 </v>
 </v>
-<v t="leo.20190611223815.1"><vh>w15</vh>
+<v t="leo.20190611223815.1" a="E"><vh>w15</vh>
 <v t="leo.20190611223815.2" a="E"><vh>往下</vh>
 <v t="leo.20190611223815.3"><vh>主題</vh></v>
 </v>
@@ -293,13 +290,15 @@ vertical: body pane on the botton</t>
     &lt;script type="text/template"&gt;
 @others
 
+
     &lt;/script&gt;
 &lt;/section&gt;
 
 
 						
 </t>
-<t tx="leo.20190611214535.2">&lt;iframe width="850" height="500" src="https://www.youtube.com/watch?v=8XIGO48ToXk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20190611214535.2">&lt;iframe width="785" height="421" src="https://www.youtube.com/embed/8XIGO48ToXk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
 <t tx="leo.20190611220113.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -331,7 +330,7 @@ vertical: body pane on the botton</t>
 
 
 
-&lt;iframe width="850" height="500" src="https://youtu.be/A80ZyJKpSwg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="560" height="314" src="https://www.youtube.com/embed/A80ZyJKpSwg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20190611220826.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -375,8 +374,7 @@ weight="500"height="500"&gt;&lt;/img&gt;
 </t>
 <t tx="leo.20190611221509.2">
 
-&lt;iframe width="950" height="500" src="https://youtu.be/A80ZyJKpSwg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
-</t>
+&lt;iframe width="560" height="314" src="https://www.youtube.com/embed/TO6ZQFRu_QM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20190611221631.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -431,9 +429,7 @@ weight="500"height="500"&gt;&lt;/img&gt;
 						
 </t>
 <t tx="leo.20190611222454.5">
-
-&lt;iframe width="950" height="500" src="https://youtu.be/A80ZyJKpSwg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
-</t>
+&lt;iframe width="560" height="314" src="https://www.youtube.com/embed/Cplq_K0c6YI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20190611222454.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -490,20 +486,6 @@ weight="500"height="500"&gt;&lt;/img&gt;
 
 * 繪製各組合件材料表
 
-</t>
-<t tx="leo.20190611222827.4">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190611222827.5">
-
-&lt;iframe width="950" height="500" src="https://youtu.be/A80ZyJKpSwg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20190611222827.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
