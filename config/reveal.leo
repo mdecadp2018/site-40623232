@@ -318,6 +318,7 @@ vertical: body pane on the botton</t>
     &lt;script type="text/template"&gt;
 @others
 
+
     &lt;/script&gt;
 &lt;/section&gt;
 
@@ -330,7 +331,8 @@ vertical: body pane on the botton</t>
 
 
 
-&lt;iframe width="560" height="314" src="https://www.youtube.com/embed/A80ZyJKpSwg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="560" height="314" src="https://www.youtube.com/embed/A80ZyJKpSwg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
 <t tx="leo.20190611220826.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -366,6 +368,7 @@ weight="500"height="500"&gt;&lt;/img&gt;
     &lt;script type="text/template"&gt;
 @others
 
+
     &lt;/script&gt;
 &lt;/section&gt;
 
@@ -374,7 +377,8 @@ weight="500"height="500"&gt;&lt;/img&gt;
 </t>
 <t tx="leo.20190611221509.2">
 
-&lt;iframe width="560" height="314" src="https://www.youtube.com/embed/TO6ZQFRu_QM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="560" height="314" src="https://www.youtube.com/embed/TO6ZQFRu_QM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
 <t tx="leo.20190611221631.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -429,7 +433,9 @@ weight="500"height="500"&gt;&lt;/img&gt;
 						
 </t>
 <t tx="leo.20190611222454.5">
-&lt;iframe width="560" height="314" src="https://www.youtube.com/embed/Cplq_K0c6YI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="560" height="314" src="https://www.youtube.com/embed/Cplq_K0c6YI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20190611222454.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -632,7 +638,7 @@ weight="500"height="500"&gt;&lt;/img&gt;
 
 ### 姓名:余建杰
 ### 學號:40623232
-### 教師:嚴家銘
+### 教師:嚴家
 
 &lt;/small&gt;
 
